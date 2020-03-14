@@ -8,6 +8,9 @@ Interactive UI with menu buttons for better navigation
 /Users/katekuril/Desktop/Screen Shot 2020-03-14 at 12.27.50 PM.png
 
 Map:
+
+
+
 Feratures:
  Drop down to filter the complain types on the Map
  Layesrs
