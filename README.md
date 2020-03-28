@@ -1,1 +1,1 @@
-https://github.com/katevnuk/project2/blob/master/project2/index.html
+https://katevnuk.github.io/project2/project2/
